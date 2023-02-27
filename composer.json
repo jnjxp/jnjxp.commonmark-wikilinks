@@ -1,0 +1,19 @@
+{
+    "name": "jnjxp/commonmark-wikilinks",
+    "description": "WikiLinks for league/commonmark",
+    "type": "library",
+    "require": {
+        "league/commonmark": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jnjxp\\CommonmarkWikilinks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jake johns",
+            "email": "jake@jakejohns.net"
+        }
+    ]
+}
